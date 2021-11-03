@@ -1,2 +1,2 @@
 # EnigmaZadanie1
-Zadanie rekrutacyjne do firmy Enigmą
+Zadanie rekrutacyjne do firmy Enigma
